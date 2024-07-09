@@ -12,3 +12,10 @@ FutureFunds is an investment calculator web application that helps users project
 - Components
 - Utilities
 - Contributing
+
+## Features
+
+- Calculate future investment value
+- Display results in a tabular format
+- Responsive design
+- Real-time input validation

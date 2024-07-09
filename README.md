@@ -26,3 +26,7 @@ FutureFunds is an investment calculator web application that helps users project
 - Vite
 - CSS
 - JavaScript
+
+## Contributing
+
+Contributions are welcome!

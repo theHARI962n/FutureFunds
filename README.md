@@ -19,3 +19,10 @@ FutureFunds is an investment calculator web application that helps users project
 - Display results in a tabular format
 - Responsive design
 - Real-time input validation
+
+## Technologies Used
+
+- React
+- Vite
+- CSS
+- JavaScript
